@@ -1,20 +1,12 @@
 # ninja log v5
-3	1556	6984993420000000	library/CMakeFiles/library.dir/A.cpp.obj	74e4c68a3265aa7e
+3	265	6985275260000000	library/CMakeFiles/library.dir/A.cpp.obj	ef11389f09575191
 9	99	6983301620000000	test/CMakeFiles/test.dir/main.cpp.obj	f4f86616fca84510
-1556	3603	6984993440000000	library/liblibrary.a	b8950ea8b2b1ce09
+265	424	6985275260000000	library/liblibrary.a	b8950ea8b2b1ce09
 341	430	6983301900000000	test/test.exe	10347927a4e3a1e4
-1	261	6984994640000000	build.ninja	294cb52b9db0004a
+1	261	6991202560000000	build.ninja	294cb52b9db0004a
 3	157	6984993600000000	test/CMakeFiles/main.dir/main.cpp.obj	73dbb9066f735e6d
 3	71	6983304600000000	test/CMakeFiles/S__Projects_STL_MY-STL_test_main_cpp.dir/main.cpp.obj	3691e8604532d969
 71	160	6983304600000000	test/S__Projects_STL_MY-STL_test_main_cpp.exe	85fe783805a754f7
 158	270	6984993600000000	test/main.exe	56605f38a3a53628
-3	299	6984993940000000	test/CMakeFiles/test_main.dir/test/main.cpp.obj	cd355a58fd911e67
-300	383	6984993940000000	test/test_main.exe	a7a0675c572b295b
-3	265	6985275260000000	library/CMakeFiles/library.dir/A.cpp.obj	ef11389f09575191
-265	424	6985275260000000	library/liblibrary.a	b8950ea8b2b1ce09
-10	435	6985275260000000	test/CMakeFiles/test_main.dir/test/main.cpp.obj	dde292d600f40ee3
-435	556	6985275280000000	test/test_main.exe	a7a0675c572b295b
-3	413	6985275360000000	test/CMakeFiles/test_main.dir/test/main.cpp.obj	dde292d600f40ee3
-413	508	6985275360000000	test/test_main.exe	a7a0675c572b295b
 3	434	6985275600000000	test/CMakeFiles/test_main.dir/test/main.cpp.obj	dde292d600f40ee3
 434	523	6985275620000000	test/test_main.exe	a7a0675c572b295b
