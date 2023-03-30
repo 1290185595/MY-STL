@@ -1,6 +1,3 @@
-aux_source_directory(. ALLOCATOR_SRC_LIST)
-add_library(allocator ${ALLOCATOR_SRC_LIST})
-
 set(
 	ALLOCATOR_INCLUDE_DIR
 	${CMAKE_CURRENT_SOURCE_DIR}
